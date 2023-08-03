@@ -1,0 +1,40 @@
+.logo-tamanho {
+    width: 133px;
+    height: 32px;
+}
+.card-img-altura {
+    height: 35vw;
+}
+.texto-pequeno {
+    font-size: 13px;
+}
+.facilidades-container{
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+@media screen and (min-width: 768px) {
+    .card-img-altura {
+        height: 23vw;
+    }
+    .div-novidades {
+        width: 696px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .card-img-altura {
+        height: 13vw;
+    }
+}
